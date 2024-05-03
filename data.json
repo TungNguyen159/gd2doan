@@ -218,18 +218,11 @@
       "role": "0"
     },
     {
-      "username": "long1",
-      "password": "t1",
+      "username": "tung",
+      "password": "r123",
       "sdt": "1231231231",
       "role": "1",
       "id": "4"
-    },
-    {
-      "username": "tung",
-      "password": "r123",
-      "sdt": "4124214141",
-      "role": "1",
-      "id": "5"
     }
   ]
 }
